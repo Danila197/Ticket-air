@@ -89,7 +89,7 @@ const createAirPlane = (title, tourData) => {
         className: 'choises-seat',
     });
 
-    const plane = createElement('fielset', {
+    const plane = createElement('fieldset', {
         className: 'plane',
         name: 'plane',
     });
